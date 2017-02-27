@@ -1,0 +1,74 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.crunchy.crunchy"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.crunchy.crunchy"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.crunchy.crunchy"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.crunchy.crunchy"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.crunchy.crunchy"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.crunchy.crunchy"
+        },
+        "com.paypal.cordova.mobilesdk": {
+            "PACKAGE_NAME": "com.crunchy.crunchy"
+        },
+        "cordova-plugin-app-version": {
+            "PACKAGE_NAME": "com.crunchy.crunchy"
+        },
+        "cordova-plugin-x-toast": {
+            "PACKAGE_NAME": "com.crunchy.crunchy"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.crunchy.crunchy"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.crunchy.crunchy"
+        },
+        "cordova-plugin-apprate": {
+            "PACKAGE_NAME": "com.crunchy.crunchy"
+        },
+        "com.xmartlabs.cordova.market": {
+            "PACKAGE_NAME": "com.crunchy.crunchy"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.crunchy.crunchy"
+        },
+        "com.telerik.stripe": {
+            "API_KEY": "sk_test_0QwybAha78UPSNkdLVyLK7JF",
+            "PACKAGE_NAME": "com.crunchy.crunchy"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.crunchy.crunchy"
+        },
+        "com.telerik.plugins.nativepagetransitions": {
+            "PACKAGE_NAME": "com.crunchy.crunchy"
+        },
+        "onesignal-cordova-plugin": {
+            "PACKAGE_NAME": "com.crunchy.crunchy"
+        },
+        "cordova-plugin-themeablebrowser": {
+            "PACKAGE_NAME": "com.crunchy.crunchy"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.crunchy.crunchy"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+[25-Nov-2016 13:56:02 UTC] PHP Fatal error:  Cannot use [] for reading in /home/conquero/public_html/crunchyv5/application/controllers/PayuMobile.php on line 140
+[25-Nov-2016 14:03:57 UTC] PHP Fatal error:  Cannot use [] for reading in /home/conquero/public_html/crunchyv5/application/controllers/PayuMobile.php on line 141
+[25-Nov-2016 14:50:37 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/conquero/public_html/crunchyv5/application/config/config.php on line 444
+[25-Nov-2016 14:50:37 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2016 14:50:37 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/conquero/public_html/crunchyv5/application/config/config.php on line 444
+[25-Nov-2016 14:50:37 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2016 14:50:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/conquero/public_html/crunchyv5/application/config/config.php on line 444
+[25-Nov-2016 14:50:39 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2016 14:50:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/conquero/public_html/crunchyv5/application/config/config.php on line 444
+[25-Nov-2016 14:50:39 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2016 14:50:50 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/conquero/public_html/crunchyv5/application/config/config.php on line 444
+[25-Nov-2016 14:50:50 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2016 14:50:50 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/conquero/public_html/crunchyv5/application/config/config.php on line 444
+[25-Nov-2016 14:50:50 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2016 14:50:51 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/conquero/public_html/crunchyv5/application/config/config.php on line 444
+[25-Nov-2016 14:50:51 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2016 14:50:51 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/conquero/public_html/crunchyv5/application/config/config.php on line 444
+[25-Nov-2016 14:50:51 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2016 14:51:20 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/conquero/public_html/crunchyv5/application/config/config.php on line 444
+[25-Nov-2016 14:51:20 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2016 14:51:20 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/conquero/public_html/crunchyv5/application/config/config.php on line 444
+[25-Nov-2016 14:51:20 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2016 14:51:22 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/conquero/public_html/crunchyv5/application/config/config.php on line 444
+[25-Nov-2016 14:51:22 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2016 14:51:22 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/conquero/public_html/crunchyv5/application/config/config.php on line 444
+[25-Nov-2016 14:51:22 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
